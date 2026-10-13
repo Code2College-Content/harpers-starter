@@ -1,0 +1,13 @@
+{
+  "name": "Harper's Home Care",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ms-vscode.live-server"
+      ]
+    }
+  }
+}
